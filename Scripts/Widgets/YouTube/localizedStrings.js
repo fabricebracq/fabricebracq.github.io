@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['<b>The YouTube URL you entered is invalid.</b><br />Double-check the URL on YouTube, and then try again.']='<b>L’URL YouTube saisie n’est pas valide.</b><br />Vérifiez l’adresse sur YouTube, puis réessayez.';strings['<b>You must be connected to the Internet to view the YouTube movie.</b>']='<b>Vous devez être connecté à Internet pour visionner cette séquence YouTube.</b>';RegisterWidgetStrings("com-apple-iweb-widget-YouTube",strings);})();
